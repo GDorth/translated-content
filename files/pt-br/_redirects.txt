@@ -433,6 +433,7 @@
 /pt-BR/docs/MDN/Contribute/Feedback	/pt-BR/docs/MDN/Community
 /pt-BR/docs/MDN/Contribute/Getting_started	/pt-BR/docs/MDN/Community/Contributing/Getting_started
 /pt-BR/docs/MDN/Contribute/GitHub_beginners	/pt-BR/docs/conflicting/MDN/Community/Contributing/Getting_started
+/pt-BR/docs/MDN/Contribute/Howto	/pt-BR/docs/conflicting/MDN/Contribute
 /pt-BR/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live	/pt-BR/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /pt-BR/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web	/pt-BR/docs/conflicting/MDN/Writing_guidelines/Page_structures/Live_samples
 /pt-BR/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web/distant_example	/pt-BR/docs/conflicting/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web
@@ -445,7 +446,7 @@
 /pt-BR/docs/MDN/Contribute/Tools/KumaScript/Solucionando_problemas_de_erros_de_KumaScript	/pt-BR/docs/orphaned/MDN/Tools/KumaScript/Troubleshooting
 /pt-BR/docs/MDN/Contribute/Where_is_everything	/pt-BR/docs/MDN/Community/Contributing/Our_repositories
 /pt-BR/docs/MDN/Contribute/criando_e_editando_paginas	/pt-BR/docs/MDN/Writing_guidelines/Howto/Creating_moving_deleting
-/pt-BR/docs/MDN/Contribute/guia	/pt-BR/docs/MDN/Contribute/Howto
+/pt-BR/docs/MDN/Contribute/guia	/pt-BR/docs/conflicting/MDN/Contribute
 /pt-BR/docs/MDN/Contribute/guia/Como-marcar-as-paginas-corretamente	/pt-BR/docs/MDN/Writing_guidelines/Howto/Tag
 /pt-BR/docs/MDN/Contribute/guia/Converter_exemplos_codigo_para_ao_vivo	/pt-BR/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /pt-BR/docs/MDN/Contribute/guia/Create_an_interactive_exercise_to_help_learning_the_web	/pt-BR/docs/conflicting/MDN/Writing_guidelines/Page_structures/Live_samples
